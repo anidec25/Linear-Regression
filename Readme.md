@@ -2,7 +2,7 @@
 <H1> Index </H1>
 
 
-Linear Regression Topics:
+<H3>Linear Regression Topics: </H3>
 1. LR Introduction
 2. LR Cost function
 3. Gradient descent Code
@@ -12,7 +12,7 @@ Linear Regression Topics:
 
 
 
-Logistics Regression
+<H3>Logistics Regression</H3>
 1. Logistic Regression Introduction
 2. Sigmoid Function
 3. Logistic Regression Cost function
@@ -21,15 +21,15 @@ Logistics Regression
 6. Evaluation Metrics 
 
 
-Decision Tree
+<H3>Decision Tree</H3>
 1. Introductory code for DT
 2. Mathematical Intuition
 
 
-Ensemble Techniques
+<H3>Ensemble Techniques</H3>
 1. Bagging 
 2. Boosting
 3. Cascading
 
-Naive Bayes
+<H3>Naive Bayes</H3>
 1. Mathematical Intuition
