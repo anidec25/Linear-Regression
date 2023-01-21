@@ -35,3 +35,7 @@
 * Hierarchial
 * GMM
 * DBSCAN
+
+#### Recommender System
+* Apriori
+* Collaborative filtering
