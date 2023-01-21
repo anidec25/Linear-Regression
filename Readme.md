@@ -29,3 +29,9 @@
 
 ### Naive Bayes
 * Mathematical Intuition
+
+### Clustering
+* K-Means 
+* Hierarchial
+* GMM
+* DBSCAN
