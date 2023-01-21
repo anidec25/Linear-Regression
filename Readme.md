@@ -1,5 +1,5 @@
 
-<H1>Index</H1>
+<H1>Topics and Case Study</H1>
 
 
 ### Linear Regression Topics
@@ -29,3 +29,13 @@
 
 ### Naive Bayes
 * Mathematical Intuition
+
+### Clustering
+* K-Means 
+* Hierarchial
+* GMM
+* DBSCAN
+
+#### Recommender System
+* Apriori
+* Collaborative filtering
