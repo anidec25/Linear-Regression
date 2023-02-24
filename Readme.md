@@ -23,12 +23,15 @@
 * Mathematical Intuition
 
 ### Ensemble Techniques
-* Bagging 
-* Boosting
+* Bagging: Random Forest
+* Boosting: GBDT, XGBoost, AdaBoost, CatBoost
+* Stacking
 * Cascading
 
 ### Naive Bayes
 * Mathematical Intuition
+* Model Development
+* Advantages and Disadvantages
 
 ### Clustering
 * K-Means 
@@ -38,4 +41,18 @@
 
 #### Recommender System
 * Apriori
+* Content Based recommender System
 * Collaborative filtering
+* Matrix Factorization
+* Evaluating RS
+
+#### Time Series
+* Forcasting
+* Handling Missing Data and Anomalies
+* Time Series decomposition
+* Train Test Split and Measure of Forecast accuracy
+* Simple Forcast Method
+* Smoothing based methods
+* Stationary
+* ACF and PACF
+* ARIMA Family and Facebook's Prophet
